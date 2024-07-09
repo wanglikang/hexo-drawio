@@ -1,0 +1,19 @@
+{
+  "name": "hexo-drawio",
+  "version": "1.0.1",
+  "description": "A simple Hexo plugin for put drawio file into blog",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "drawio"
+  ],
+  "author": "王利康",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^4.0.1",
+    "cheerio": "1.0.0-rc.12",
+    "he": "1.2.0",
+    "hexo-util-parse-tag-arguments": "^2021.1.2"
+  }
+}
